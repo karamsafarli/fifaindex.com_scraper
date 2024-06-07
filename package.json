@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "puppeteer": "^22.10.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "name": "fifa_scrape",
+  "version": "1.0.0",
+  "main": "fifa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
